@@ -1,9 +1,4 @@
-let number = 5;
-const leftBorderWidth = 1;
+"use strict";
 
-number = 10;
-console.log(number);
-
-
-var name = 'Ivan';
-console.log(name);
+let number = 4.6;
+ 
